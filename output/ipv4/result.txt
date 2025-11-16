@@ -1,4 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-16 06:14:30,url
+2025-11-16 18:18:31,http://sh.lnott.top:880/dx02.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://sh.lnott.top:880/dx02.m3u8
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807419
+CCTV-4,http://120.46.223.160/PHP/MG.php?id=608807416
