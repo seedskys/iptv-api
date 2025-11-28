@@ -1,1 +1,5 @@
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 508 ms, Speed: 0.81 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://60.13.52.236:65500/newlive/live/hls/3/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-甘肃-兰州, ISP: 联通, Date: None, Delay: 10461 ms, Speed: 0.10 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 444 ms, Speed: 0.70 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://1.58.246.115:4000/rtp/229.58.190.131:5000, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江-哈尔滨, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-4, URL: http://1.58.246.115:4001/rtp/229.58.190.131:5000, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江-哈尔滨, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://183.220.107.138:4022/rtp/239.11.0.130:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 434 ms, Speed: 0.11 M/s, Resolution: 720x576
