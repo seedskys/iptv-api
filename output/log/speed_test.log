@@ -1,6 +1,1 @@
-Name: CCTV-1, URL: http://play.kankanlive.com/live/1698234869325962.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 联通, Date: None, Delay: 1045 ms, Speed: 0.20 M/s, Resolution: 800x600
-Name: CCTV-2, URL: https://play.kankanlive.com/live/1698234898628961.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 联通, Date: None, Delay: 1018 ms, Speed: 0.11 M/s, Resolution: 800x600
-Name: CCTV-4, URL: https://play.kankanlive.com/live/1698234936258960.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 联通, Date: None, Delay: 1029 ms, Speed: 0.00 M/s, Resolution: 800x600
-Name: CCTV-4, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 10377 ms, Speed: 0.37 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 10380 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 380 ms, Speed: 0.98 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://183.220.107.138:4022/rtp/239.11.0.109:5140, From: subscribe, IPv_Type: ipv4, Location: 中国-四川-成都, ISP: 移动, Date: None, Delay: 452 ms, Speed: 0.95 M/s, Resolution: 1920x1080
