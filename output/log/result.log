@@ -123,7 +123,7 @@ Name: CCTV-1, URL: https://migu.188766.xyz/?migutoken=9835b51582dd7ceadbbe6f7786
 Name: CCTV-1, URL: https://migu.188766.xyz/?migutoken=ea00510ce7092447a39c6c1a8a30f447&id=CCTV1&type=yy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: https://migu.188766.xyz/?migutoken=ac67be4cebbcadaddd21f06222eb5cc4&id=CCTV1&type=yy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: https://migu.188766.xyz/?migutoken=b26498583045e38cbcac1244f475cb67&id=CCTV1&type=yy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 403 ms, Speed: 10.21 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 745 ms, Speed: 7.60 M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://goo.bkpcp.top/mg/CCTV2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -389,7 +389,7 @@ Name: CCTV-3, URL: https://migu.188766.xyz/?migutoken=f115dfbec7a6bf3e44a33d110f
 Name: CCTV-3, URL: https://migu.188766.xyz/?migutoken=ad972ba542e60aac2038d40015dfd60b&id=CCTV3&type=yy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://iptv.catvod.com/live.php?id=CCTV-3, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-3, URL: https://migu.188766.xyz/?migutoken=1535e07a68c9ed5a9e1e1a73e310605e&id=CCTV3&type=yy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 822 ms, Speed: 4.85 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 1320 ms, Speed: 3.30 M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://z.b.bkpcp.top/m.php?id=CCTV-4国际, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-4, URL: http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
