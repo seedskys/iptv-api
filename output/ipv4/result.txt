@@ -1,28 +1,32 @@
 🕘️更新时间,#genre#
-2026-04-15 06:43:35,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
+2026-04-15 18:58:44,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV1
+CCTV-1,http://113.241.133.180:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://1.197.204.20:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=6
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=4
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=3
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=1
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=6
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=2
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=1
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV-2,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV2
+CCTV-2,http://113.241.133.180:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://1.197.204.20:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=8
-CCTV-3,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV3
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=6
+CCTV-3,http://113.241.133.180:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://1.197.204.20:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=3
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=5
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=4
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=5
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=4
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=6
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV-4,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV4
+CCTV-4,http://1.197.204.20:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV-5,http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV5
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV-5,http://113.241.133.180:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://1.197.204.20:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
