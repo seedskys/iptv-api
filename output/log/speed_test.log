@@ -1,1 +1,3 @@
-Name: CCTV-2, URL: http://204.12.221.218:8181/3m1080p/cctv2.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 2157 ms, Speed: 1.76 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://204.12.221.218:8181/3m1080p/cctv2.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 371 ms, Speed: 10.38 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://125.43.247.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-焦作, ISP: 联通, Date: None, Delay: 10448 ms, Speed: 0.01 M/s, Resolution: None
+Name: CCTV-2, URL: http://125.43.247.15:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-河南-焦作, ISP: 联通, Date: None, Delay: 10456 ms, Speed: 0.01 M/s, Resolution: None
