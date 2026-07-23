@@ -1,5 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-23 07:00:17,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+2026-07-23 19:49:43,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+CCTV-3,http://125.42.151.217:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://104.152.209.49:8181/720p/cctv5.m3u8
+CCTV-5,http://104.152.209.49:8181/720p/cctv5p.m3u8
+CCTV-5,http://116.1.148.123:9901/newlive/live/hls/15/live.m3u8
