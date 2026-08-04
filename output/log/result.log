@@ -211,8 +211,7 @@ Name: CCTV-1, URL: https://iptv.catvod.com/migu?id=608807420&token=d251898c5d80c
 Name: CCTV-1, URL: https://iptv.catvod.com/migu?id=608807420&token=58e65b6b9d1a40c10f7199ac567e29e9, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: https://iptv.catvod.com/migu?id=608807420&token=40d15ffb36566e4c372b39bbe7436f33, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-1, URL: https://iptv.catvod.com/migu?id=608807420&token=d9e9ce42dc8e6313472d45160bc23507, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-1, URL: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州, ISP: NTT(美国)通信公司, Date: None, Delay: 5879 ms, Speed: 0.99 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://113.90.154.189:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-深圳, ISP: 电信, Date: None, Delay: 10931 ms, Speed: 0.09 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-科罗拉多州, ISP: NTT(美国)通信公司, Date: None, Delay: 1068 ms, Speed: 4.82 M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://goo.bkpcp.top/mg/CCTV2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-2, URL: http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 教育网, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1427,5 +1426,4 @@ Name: CCTV-5, URL: https://iptv.catvod.com/migu?id=641886683&token=7fd89ad245c71
 Name: CCTV-5, URL: https://iptv.catvod.com/migu?id=641886683&token=f46a0fe3bbe3a585e2ce45a33096ca29, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://iptv.catvod.com/migu?id=641886683&token=b4e9174b88b36b8ad481d098812dbfcd, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV-5, URL: https://iptv.catvod.com/migu?id=641886683&token=f1acde8f30afe15473fef14c8f12e440, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 593 ms, Speed: 0.19 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://39.77.159.145:4002/rtp/239.253.254.192:8000, From: subscribe, IPv_Type: ipv4, Location: 中国-山东-青岛, ISP: 联通, Date: None, Delay: 515 ms, Speed: 0.18 M/s, Resolution: 0x0
+Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 591 ms, Speed: 0.04 M/s, Resolution: 1920x1080
