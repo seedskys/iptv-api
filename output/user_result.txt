@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 07:01:05,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-05 19:58:35,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
