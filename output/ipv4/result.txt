@@ -1,13 +1,6 @@
 🕘️更新时间,#genre#
-2026-08-15 18:20:55,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
+2026-08-16 06:18:42,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
 
 📺央视频道,#genre#
 CCTV-2,http://218.13.148.152:5140/IPTV-%E5%A4%AE%E8%A7%86/CCTV-2
-CCTV-2,http://171.38.148.188:9003/hls/2/index.m3u8
-CCTV-3,http://171.38.148.188:9003/hls/3/index.m3u8
-CCTV-4,http://1.190.240.47:9003/hls/3004/index.m3u8
-CCTV-4,http://171.38.148.188:9003/hls/4/index.m3u8
-CCTV-4,http://171.38.148.188:9003/hls/20/index.m3u8
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://171.38.148.188:9003/hls/141/index.m3u8
-CCTV-5,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
