@@ -1,6 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-17 06:18:06,http://139.214.181.142:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-17 18:30:02,http://218.13.138.139:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
-CCTV-1,http://139.214.181.142:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://218.13.138.139:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://118.122.144.115:8888/newlive/live/hls/3/live.m3u8
+CCTV-3,http://221.226.51.220:50081/newlive/live/hls/3/live.m3u8
+CCTV-3,http://112.27.145.212:9902/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
