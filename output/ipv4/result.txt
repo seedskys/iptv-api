@@ -1,6 +1,7 @@
 🕘️更新时间,#genre#
-2026-08-21 18:27:48,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+2026-08-22 06:22:09,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://112.27.5.218:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
