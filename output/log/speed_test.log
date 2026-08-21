@@ -1,6 +1,3 @@
-Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 561 ms, Speed: 0.23 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://113.9.214.47:9003/hls/18/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江-哈尔滨, ISP: 联通, Date: None, Delay: 10906 ms, Speed: 0.50 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://111.59.24.227:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广西, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://111.59.24.227:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广西, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-3, URL: http://111.59.24.227:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广西, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://111.59.24.227:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广西, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 1533 ms, Speed: 0.43 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-黑龙江-绥化, ISP: 电信, Date: None, Delay: 10485 ms, Speed: 0.13 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://123.118.53.84:45237/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
