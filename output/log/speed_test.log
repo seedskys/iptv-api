@@ -1,1 +1,5 @@
-Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 508 ms, Speed: 0.05 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://36.49.50.4:8800/rtp/239.37.0.232:5540, From: subscribe, IPv_Type: ipv4, Location: 中国-吉林, ISP: 电信, Date: None, Delay: 587 ms, Speed: 0.76 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://101.66.198.245:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-3, URL: http://101.66.198.245:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://101.66.198.245:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-2, URL: http://101.66.198.179:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-金华, ISP: 联通, Date: None, Delay: 6206 ms, Speed: 0.00 M/s, Resolution: None
