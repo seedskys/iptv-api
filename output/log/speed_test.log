@@ -1,5 +1,7 @@
-Name: CCTV-4, URL: http://45.192.97.170:8880/play/444.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 964 ms, Speed: 4.78 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://45.192.97.170:8880/play/406.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 191 ms, Speed: 2.72 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://45.192.97.170:8880/play/193.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 5710 ms, Speed: 1.33 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://183.129.255.66:8480/hls/6/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江-杭州, ISP: 电信, Date: None, Delay: 10078 ms, Speed: 0.15 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://45.192.97.170:8880/play/195.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 10837 ms, Speed: 0.37 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1793977200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ca0065d2e5c789039033a334285a9b44&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/6.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-1, URL: http://45.192.97.170:8880/play/406.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 417 ms, Speed: 1.84 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://45.192.97.170:8880/play/444.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 449 ms, Speed: 2.53 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/410.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 765 ms, Speed: 5.49 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://45.192.97.170:8880/play/193.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 9513 ms, Speed: 0.61 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/394.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 10036 ms, Speed: 0.34 M/s, Resolution: 1920x1080
