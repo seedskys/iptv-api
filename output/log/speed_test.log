@@ -1,9 +1,6 @@
-Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 138 ms, Speed: 11.03 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1794485700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-15f07ee64d8e86a9ce6efe40d41c5fda&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-2, URL: http://45.192.97.170:8880/play/442.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 225 ms, Speed: 4.40 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://45.192.97.170:8880/play/444.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 318 ms, Speed: 6.51 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 2855 ms, Speed: 1.00 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://45.192.97.170:8880/play/197.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 5560 ms, Speed: 1.11 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 437 ms, Speed: 5.20 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-北京-北京, ISP: 电信, Date: None, Delay: 10802 ms, Speed: 0.16 M/s, Resolution: 1920x1080
-Name: CCTV-5, URL: http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txiptv, From: subscribe, IPv_Type: ipv4, Location: 中国-辽宁-沈阳, ISP: 电信, Date: None, Delay: 10476 ms, Speed: 0.58 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 425 ms, Speed: 3.53 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/197.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 450 ms, Speed: 4.80 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://45.192.97.170:8880/play/196.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 549 ms, Speed: 4.72 M/s, Resolution: 1920x1080
+Name: CCTV-2, URL: http://45.192.97.170:8880/play/442.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 1375 ms, Speed: 1.48 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://45.192.97.170:8880/play/444.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: 1489 ms, Speed: 1.62 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://mtayeh.ottb.xyz/live/774710333494/659822672281/58638.ts, From: subscribe, IPv_Type: ipv4, Location: 克罗地亚, ISP: , Date: None, Delay: 1359 ms, Speed: 0.00 M/s, Resolution: 1920x1080
