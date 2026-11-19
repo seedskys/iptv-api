@@ -1,3 +1,1 @@
-Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 403 ms, Speed: 9.86 M/s, Resolution: 1920x1080
-Name: CCTV-2, URL: http://45.192.97.170:8880/play/442.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-4, URL: http://45.192.97.170:8880/play/444.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: LARUS, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 785 ms, Speed: 6.34 M/s, Resolution: 1920x1080
