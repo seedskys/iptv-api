@@ -1,3 +1,3 @@
-Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 200 ms, Speed: 9.67 M/s, Resolution: 1920x1080
-Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 285 ms, Speed: 7.93 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://218.13.139.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 3319 ms, Speed: 1.84 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: http://173.208.234.146/live/cctv5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 303 ms, Speed: 15.99 M/s, Resolution: 1920x1080
+Name: CCTV-3, URL: http://173.208.234.146/live/cctv3.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: WholeSale互联网股份有限公司, Date: None, Delay: 153 ms, Speed: 12.76 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://218.13.139.26:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-广东-佛山, ISP: 电信, Date: None, Delay: 10650 ms, Speed: 0.33 M/s, Resolution: 1920x1080
